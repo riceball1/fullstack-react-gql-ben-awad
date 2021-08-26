@@ -18,3 +18,7 @@ Following a tutorial by Ben Awad [video](https://www.youtube.com/watch?v=I6ypD7q
 - Bracket Colorizer
 - Docker
 - Prettier
+
+## Development Tips
+
+- Used `npx tsconfig.json`

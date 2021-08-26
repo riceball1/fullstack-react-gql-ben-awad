@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-react-gql-ben-awad",
+  "version": "1.0.0",
+  "description": "Following a tutorial by Ben Awad [video](https://www.youtube.com/watch?v=I6ypD7qv3Z8) using React and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riceball1/fullstack-react-gql-ben-awad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riceball1/fullstack-react-gql-ben-awad/issues"
+  },
+  "homepage": "https://github.com/riceball1/fullstack-react-gql-ben-awad#readme",
+  "dependencies": {
+    "@types/node": "^16.7.2",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  }
+}
